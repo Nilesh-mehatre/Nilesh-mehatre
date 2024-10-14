@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nilesh-mehatre
 - 👀 I’m interested in technology,philosophy,reading,cosmology and the human psychology
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently everything that comes in my way
 - 💞️ I’m looking to collaborate on an impressive service based idea to development
 - 📫 How to reach me with email --> nileshmehatre111@gmail.com
 
